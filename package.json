@@ -1,0 +1,12 @@
+{
+  "name": "boxy-erp",
+  "version": "1.0.0",
+  "description": "BOXY ERP Cloud",
+  "main": "boxy-server.js",
+  "scripts": {
+    "start": "node boxy-server.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
